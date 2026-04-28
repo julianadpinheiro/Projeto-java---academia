@@ -1,7 +1,7 @@
 # 🏋️ Sistema de Gestão de Academia
 
 ## 📌 Descrição
-Sistema em Java utilizando padrão MVC para gerenciamento de academia, com persistência em banco de dados.
+Sistema desenvolvido em Java utilizando o padrão MVC para gerenciamento de academia, com persistência em banco de dados. Projeto desenvolvido em aula na disciplina de Pesquisa Orientada a Objetos.
 
 ---
 
